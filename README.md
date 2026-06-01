@@ -64,4 +64,4 @@ Pilih operasi (1-5): 1
 
 ## 👤 Author
 
-**Username GitHub kamu** — project perdana belajar Python 🐍
+**KaiOverCooked** — project perdana belajar Python 🐍
